@@ -1,6 +1,6 @@
-# flutter_startup_name
+# Startup Name Generator
 
-A new Flutter project.
+A new Flutter project. https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1#0
 
 ## Getting Started
 
